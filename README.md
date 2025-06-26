@@ -28,3 +28,8 @@ A Python-based tool that logs **keyboard and mouse events** (keypresses, clicks,
 ⚠️ This tool is intended for ethical and educational use only.
 Do not use it on any system you do not own or without explicit permission.
 The author is not responsible for any misuse of this tool.
+
+📢 Author
+
+Ankush Kumar Mohapatra
+📍 B.Tech CE @ IIIT Bhubaneswar
